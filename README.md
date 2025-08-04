@@ -28,13 +28,4 @@ This is a **Twitter Clone** built using the **MERN stack** — MongoDB, Express.
 
 - **React.js**: JavaScript library for building the user interface.
 - **React Router**: For routing between different pages (Home, Profile, Login, etc.).
-
-### Setup Steps
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/sivasanjeevs/X_Clone.git
-   cd X_Clone
-
   
